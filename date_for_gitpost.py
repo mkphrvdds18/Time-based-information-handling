@@ -4,7 +4,6 @@
 
 from datetime import datetime
 now = datetime.now()  
-#/ now = datetime.now   // no need '() '
 
 current_year = now.year
 next_year = current_year + 1
